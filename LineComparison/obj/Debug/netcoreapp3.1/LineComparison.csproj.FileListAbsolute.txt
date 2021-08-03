@@ -1,0 +1,12 @@
+C:\Users\HP\csharp\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.exe
+C:\Users\HP\csharp\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.deps.json
+C:\Users\HP\csharp\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.runtimeconfig.json
+C:\Users\HP\csharp\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.runtimeconfig.dev.json
+C:\Users\HP\csharp\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.dll
+C:\Users\HP\csharp\LineComparison\LineComparison\bin\Debug\netcoreapp3.1\LineComparison.pdb
+C:\Users\HP\csharp\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.AssemblyInfo.cs
+C:\Users\HP\csharp\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.dll
+C:\Users\HP\csharp\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.pdb
+C:\Users\HP\csharp\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.genruntimeconfig.cache
